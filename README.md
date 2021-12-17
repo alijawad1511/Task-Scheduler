@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Task Scheduler
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Simple React App. It is a Task Scheduler in which we can add our tasks and date time for reminder. It is like Sticky Notes.
 
 ## Available Scripts
 
